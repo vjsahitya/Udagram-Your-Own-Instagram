@@ -1,4 +1,10 @@
-# Udagram Your Own INstagram
+# Udagram Your Own Instagram
+
+# Github Repository Url
+ https://github.com/vjsahitya/Udagram-Your-Own-Instagram
+ 
+# ElasticBeans URL
+ http://udagram-sahitya-dev.us-east-2.elasticbeanstalk.com
 
 ## Tasks
 
