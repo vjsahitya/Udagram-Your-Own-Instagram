@@ -5,7 +5,13 @@
  
 # ElasticBeans URL
  http://udagram-sahitya-dev.us-east-2.elasticbeanstalk.com
+ 
+# Running Example URL 
+http://udagram-sahitya-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg
 
+
+
+--------------------------------------------
 ## Tasks
 
 ### Setup Node Environment
